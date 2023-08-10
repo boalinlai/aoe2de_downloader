@@ -1,0 +1,3 @@
+cargo:rerun-if-changed=build/main.rs
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/home/boalinlai/Documents/aoe2de_downloader/target/release/build/typenum-411fc75c84a1dbb9/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/home/boalinlai/Documents/aoe2de_downloader/target/release/build/typenum-411fc75c84a1dbb9/out/op.rs

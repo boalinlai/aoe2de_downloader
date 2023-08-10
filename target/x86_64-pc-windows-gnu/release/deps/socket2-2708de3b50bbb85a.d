@@ -1,0 +1,11 @@
+/home/boalinlai/Documents/aoe2de_downloader/target/x86_64-pc-windows-gnu/release/deps/socket2-2708de3b50bbb85a.rmeta: /home/boalinlai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.4.9/src/lib.rs /home/boalinlai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.4.9/src/sockaddr.rs /home/boalinlai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.4.9/src/socket.rs /home/boalinlai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.4.9/src/sockref.rs /home/boalinlai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.4.9/src/sys/windows.rs
+
+/home/boalinlai/Documents/aoe2de_downloader/target/x86_64-pc-windows-gnu/release/deps/libsocket2-2708de3b50bbb85a.rlib: /home/boalinlai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.4.9/src/lib.rs /home/boalinlai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.4.9/src/sockaddr.rs /home/boalinlai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.4.9/src/socket.rs /home/boalinlai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.4.9/src/sockref.rs /home/boalinlai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.4.9/src/sys/windows.rs
+
+/home/boalinlai/Documents/aoe2de_downloader/target/x86_64-pc-windows-gnu/release/deps/socket2-2708de3b50bbb85a.d: /home/boalinlai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.4.9/src/lib.rs /home/boalinlai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.4.9/src/sockaddr.rs /home/boalinlai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.4.9/src/socket.rs /home/boalinlai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.4.9/src/sockref.rs /home/boalinlai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.4.9/src/sys/windows.rs
+
+/home/boalinlai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.4.9/src/lib.rs:
+/home/boalinlai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.4.9/src/sockaddr.rs:
+/home/boalinlai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.4.9/src/socket.rs:
+/home/boalinlai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.4.9/src/sockref.rs:
+/home/boalinlai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.4.9/src/sys/windows.rs:
