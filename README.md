@@ -4,8 +4,17 @@ Script for Age of Empire DE record file in Rust to help download the record file
 
 # Usage
 
-- copy and paste the downloader binary into saved game folder,
-under windows env, it should prompt the followings:
+- copy and paste the [windows downloader binary](https://github.com/boalinlai/aoe2de_downloader/blob/main/target/x86_64-pc-windows-gnu/release/aoe2de_downloader.exe) into saved game folder.
+
+Under windows env, after double clicked exe, it will prompt the followings:
+
+```
+Please enter a number for download_leaderboard_top_n:
+```
+
+enter the number the app will start downloading record and unzip it under saved folder.
+
+## Example output
 
 ```
 Please enter a number for download_leaderboard_top_n:
